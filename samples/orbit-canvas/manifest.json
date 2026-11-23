@@ -1,0 +1,11 @@
+{
+  "id": "de.jarrunner.samples.orbitcanvas",
+  "name": "Orbit Canvas",
+  "version": "1.0.0",
+  "author": "JarRunner SDK",
+  "description": "Demonstriert die native 2D-UiCanvas-Bridge mit Echtzeit-Rendering aus Standard-Java.",
+  "mainClass": "de.jarrunner.samples.OrbitCanvasApp",
+  "icon": "icon.png",
+  "accentColor": "#22D3EE",
+  "permissions": ["UI_BRIDGE", "CANVAS_2D"]
+}

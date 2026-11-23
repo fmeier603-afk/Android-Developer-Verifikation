@@ -1,0 +1,6 @@
+{
+  "name": "JarRunner",
+  "description": "Modularer Open-Source Java-JAR-Launcher für Android mit UI-Bridge, Sandbox-ClassLoader, HTTPS-Paketinstallation und ARM64-OpenJDK-Unterstützung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

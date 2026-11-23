@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">JarRunner</string>
+    <string name="tab_launcher">Launcher</string>
+    <string name="tab_installer">Installieren</string>
+    <string name="tab_runtime">Laufzeit</string>
+    <string name="cd_app_banner">JarRunner Architektur-Banner</string>
+    <string name="cd_app_icon">App-Symbol</string>
+    <string name="cd_back">Zurück</string>
+    <string name="cd_stop_app">JAR-App beenden</string>
+    <string name="cd_console">Sandbox-Konsole öffnen</string>
+    <string name="cd_inspect">JAR inspizieren</string>
+    <string name="cd_delete">JAR entfernen</string>
+    <string name="error_invalid_url">Bitte eine gültige HTTPS-URL zu einer .jar-Datei eingeben.</string>
+</resources>

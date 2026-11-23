@@ -1,0 +1,11 @@
+{
+  "id": "de.jarrunner.samples.hellocounter",
+  "name": "Hello Counter",
+  "version": "1.0.0",
+  "author": "JarRunner SDK",
+  "description": "Minimale Beispiel-JAR mit nativem Button, Klick-Zähler, Eingabefeld, Toast & Dialog.",
+  "mainClass": "de.jarrunner.samples.HelloCounterApp",
+  "icon": "icon.png",
+  "accentColor": "#F59E0B",
+  "permissions": ["UI_BRIDGE", "SANDBOX_FS"]
+}
